@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Maitri Dabhi | Civil Engineering Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<canvas id="engineeringCanvas"></canvas>
+
+<nav>
+
+<div class="logo">MAITRI</div>
+
+<ul>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#achievements">Achievements</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+
+</nav>
+
+
+<section class="hero">
+
+<h1>Maitri Dabhi</h1>
+
+<h3>Civil Engineering Undergraduate</h3>
+
+<p>
+Infrastructure | Transportation | Airport Engineering
+</p>
+
+</section>
+
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+
+I am a Civil Engineering undergraduate at Pandit Deendayal Energy University with
+a CGPA of 8.81. My interests lie in transportation infrastructure,
+airport engineering, and structural systems.
+
+I enjoy solving real-world engineering problems and designing
+infrastructure that improves durability, efficiency, and sustainability.
+
+</p>
+
+</section>
+
+
+<section id="skills">
+
+<h2>Technical Skills</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Engineering Software</h3>
+<ul>
+<li>AutoCAD</li>
+<li>Revit</li>
+<li>SolidWorks</li>
+<li>QGIS</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Programming</h3>
+<ul>
+<li>Python</li>
+<li>C Programming</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Engineering Domains</h3>
+<ul>
+<li>Transportation Engineering</li>
+<li>Airport Engineering</li>
+<li>Structural Engineering</li>
+<li>Geotechnical Engineering</li>
+</ul>
+</div>
+
+</div>
+
+</section>
+
+
+<section id="projects">
+
+<h2>Research Project</h2>
+
+<div class="card">
+
+<h3>Airport Pavement Waterproofing Research</h3>
+
+<p>
+
+Performance Evaluation of Non-Oil Permeable Creep Rubber Waterproof Material
+for Airport Pavement Joints.
+
+</p>
+
+<p>
+
+Research focused on durability and performance of airport pavement
+waterproofing materials to improve infrastructure lifespan.
+
+</p>
+
+</div>
+
+</section>
+
+
+<section id="achievements">
+
+<h2>Achievements & Certifications</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Procon of Technology</h3>
+<p>Second Rank – CEPT University (2025)</p>
+</div>
+
+<div class="card">
+<h3>NPTEL Certification</h3>
+<p>Understanding Incubation & Entrepreneurship</p>
+<p>Score: 96% – IIT Roorkee</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: yourmail@email.com</p>
+<p>Phone: +91 XXXXX XXXXX</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Maitri Dabhi</p>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
